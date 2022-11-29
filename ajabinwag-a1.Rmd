@@ -1,0 +1,14 @@
+---
+title: "Reflection on the video, Hello Quarto!"
+author: "Aepril Jean A. Binwag"
+date: "2022-11-22"
+output: pdf_document
+---
+
+## ASSIGNMENT
+
+1.  What package are they talking about?
+2.  Why is there a need to shift from Rmarkdown to the said package?
+3.  What inspired/sparked the said shift?
+4.  Are you up to the challenge of the said shift; learning it and applying it in you future career as Math teachers?
+5.  What cool feature in the package did you like best? Please discuss. Thanks.
